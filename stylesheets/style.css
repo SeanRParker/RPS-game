@@ -1,11 +1,23 @@
 html{
     background:rgb(66,66,66);
 }
-.container{
-  background:rgb(66,66,66);
-  padding:25px;
+body{
+  text-align: center;
 }
-.container div{
+.btn{
+  margin:15px auto;
+}
+.container{
+  /*padding:25px;*/
+}
+.shoot{
+  color:white;
+  background:red;
+}
+.status{
+  
+}
+/*.container div{
   margin: 5px;
   position: relative;
-}
+}*/
