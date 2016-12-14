@@ -3,9 +3,13 @@ html{
 }
 body{
   text-align: center;
+  height:100vh;
 }
 .btn{
   margin:15px auto;
+}
+.mistake{
+  padding:5px 10px;
 }
 .container{
   /*padding:25px;*/
@@ -14,8 +18,21 @@ body{
   color:white;
   background:red;
 }
+.weapon{
+  transform:rotate(90deg);
+}
+i{
+  font-size:8em !important;
+  color:black;
+}
+i:hover{
+  color:#226a9e;
+}
 .status{
-  
+
+}
+.fa-6{
+  font-size:30px;
 }
 /*.container div{
   margin: 5px;
